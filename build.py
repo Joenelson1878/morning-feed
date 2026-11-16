@@ -29,6 +29,10 @@ SOURCES = [
     ("Guardian Business","fin",  "https://www.theguardian.com/uk/business/rss"),
     ("MarketWatch",      "fin",  "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
     ("Yahoo Finance",    "fin",  "https://finance.yahoo.com/news/rss"),
+    ("Bloomberg",        "fin",  "https://feeds.bloomberg.com/markets/news.rss"),
+    ("Bloomberg Tech",   "tech", "https://feeds.bloomberg.com/technology/news.rss"),
+    ("Financial Times",  "fin",  "https://www.ft.com/?format=rss"),
+    ("Business Insider", "fin",  "https://www.businessinsider.com/rss"),
 ]
 
 # (label, Yahoo Finance symbol, prefix, decimals)
